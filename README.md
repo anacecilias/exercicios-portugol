@@ -30,12 +30,25 @@ Praticar lógica de programação e realizar a transição da pseudolinguagem Po
 - Exercícios desenvolvidos com foco em aprendizado acadêmico
 - Foi priorizado o uso de `snake_case` na transição para Python, seguindo boas práticas da PEP 8
 
+## Observação sobre acentuação
+
+Alguns arquivos em Portugol podem apresentar problemas de acentuação ao serem abertos no Portugol WebStudio.
+
+Isso ocorre devido a limitações de codificação (encoding UTF-8) da plataforma, e não ao código em si.
+
+Os arquivos foram escritos corretamente, porém podem sofrer alterações visuais ao serem carregados no ambiente.
+
+### Exemplo de código em Portugol
+
+![Código Portugol](código.por.png)
+
 ## Uso
 
 - Para abrir os arquivos .por, basta direcionar-se ao Portugol Webstudio na opção de abrir arquivo
-- Já os arquivos .py podem ser abertos normalmente em IDEs específicas como PyCharm, editores de código como Visual Studio Code ou outras aplicações de sua preferência
+  
+![Portugol Webstudio](portugol.dev.png)
 
----
+- Já os arquivos .py podem ser abertos normalmente em IDEs específicas como PyCharm, editores de código como Visual Studio Code ou outras aplicações de sua preferência
 
 ## Resumo de Estudo
 
